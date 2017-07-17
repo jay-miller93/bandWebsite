@@ -1,9 +1,13 @@
 ﻿#firstHeading {
     color:black;
-    font-family:font-family: 'Frijole';
+    font-family:font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
 }
 
 body {
-    background-color:#03BCFF;
+    background-image:url('image/oklahoma-rhema-christmas-lights-LIGHTS1215.jpg');
+}
+.intorText{
+     color:greenyellow;
+    font-family: 'Frijole', cursive;
 }
